@@ -8,7 +8,6 @@ import Definitions from "./components/Definitions/Definitions";
 // Theme toggle imports...
 import { FormGroup, Switch } from "@mui/material";
 // import FormControlLabel from "@mui/material/FormControlLabel";
-// import styled from "@emotion/styled";
 
 function App() {
   const [word, setWord] = useState("");
